@@ -33,7 +33,7 @@ def register():
     conn.commit()
     conn.close()
 
-    return 'Student Registered Successfully!'
+    return "Student Registered Successfully!"
 
 if __name__ == '__main__':
     app.run(debug=True)
