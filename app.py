@@ -4,8 +4,9 @@ import sqlite3
 app = Flask(__name__)
 
 # Home page
-@app.route('/')
-def home():
+@app.route('/submit', methods=['POST'])
+def submit():
+    return "Form submitted"
     return render_template('index.html')
 
 # Register student
