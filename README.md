@@ -6,4 +6,4 @@ This project is developed using HTML, CSS, Python Flask and SQLite database.
 
 GitHub Repository:https://github.com/cindrellajubilant-cmd/student-registration/tree/main
 
-Live Website Link:
+Live Website Link:https://student-registration-1-arnu.onrender.com/
