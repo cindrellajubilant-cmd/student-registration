@@ -1,12 +1,9 @@
-# Go to your project folder
-cd your-project
+# Portfolio Website Project
 
-# Create README file
-echo "# My Project" > README.md
+Design and Development of a Portfolio Website using Flask with Database Integration
 
-# Add and commit
-git add README.md
-git commit -m "Add README"
+This project is developed using HTML, CSS, Python Flask and SQLite database.
 
-# Push to GitHub
-git push origin main
+GitHub Repository:
+
+Live Website Link:
