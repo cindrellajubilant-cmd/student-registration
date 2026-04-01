@@ -4,6 +4,6 @@ Design and Development of a Portfolio Website using Flask with Database Integrat
 
 This project is developed using HTML, CSS, Python Flask and SQLite database.
 
-GitHub Repository:
+GitHub Repository:https://github.com/cindrellajubilant-cmd/student-registration/tree/main
 
 Live Website Link:
